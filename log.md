@@ -9,7 +9,7 @@ Today's Progress: Officially publicly pledged my commitment to the #100daysofcod
 
 **Thoughts**: I really struggle with organising my thoughts when it comes to coding. I hope to improve this in time. C language is really a challenge. In fact, I still struggle with C, because I feel there is a little bit of logic behind it. Nevertheless, I feel I'll get better with it once I become more used to coding, recognising patterns and simply practicing.
 
-(example)
+**Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
