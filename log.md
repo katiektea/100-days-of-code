@@ -8,7 +8,7 @@ Today's Progress: Officially publicly pledged my commitment to the #100daysofcod
 Find here: https://www.instagram.com/katiekodes/
 -> Set up an official Github account and still trying to get my head around the interface. I'm not too sure what all the functions mean or do so I am learning as I go
 
--> Lastly, set uo my official website dedicated to coding projects, creative works at the like. It is simply a portfolio that I had my mind on for a while for all my works including writing, travel, cooking, technology posts etc. I decided this opportunity would be fitting for me to weave all those elements into one, nestled neatly in one website, which I will be launching very soon.
+-> Lastly, set up my official website dedicated to coding projects, creative works at the like. It is simply a portfolio that I had my mind on for a while for all my works including writing, travel, cooking, technology posts etc. I decided this opportunity would be fitting for me to weave all those elements into one, nestled neatly in one website, which I will be launching very soon.
 
 **Thoughts**: I really struggle with organising my thoughts when it comes to coding. I hope to improve this in time. C language is really a challenge. In fact, I still struggle with C, because I feel there is a little bit of logic behind it. Nevertheless, I feel I'll get better with it once I become more used to coding, recognising patterns and simply practicing.
 
