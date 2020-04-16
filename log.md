@@ -23,6 +23,18 @@ I learned a crucial lesson today. This involved being able to organise my though
 
 Overall, today I discovered these soft skills are significant to successfully and smoothly continue my work in code, and everywhere else in life. 
 
+### Day 3: April 16, 2020 
+👉🏻Learned about debugging on C today with #CS50
+👉🏻Learning to style my HTML code with CSS
+👉🏻Understanding CSS rules for styling the UI
+
+**Thoughts** 
+I learned to manage my time better, breaking big tasks into bite sized chunks to work with. A similar concept is applied when hiking. We all want to conquer the mountain, but it is about taking individual steps, slowly walking the incline until we reach the top.
+Most importantly, remem bering or even better, LEARNING to take breaks. Understanding our bodies and minds needs breaks. A habit of mine is that get so obsessed with my work, I forget to take a break.
+
+I closed the laptop yesterday at 12am. Crazy...Need to learn to take breaks.  
+Something I will learn to improve along the way, in code and conquering the mountain! 
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
