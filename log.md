@@ -35,6 +35,22 @@ Most importantly, remem bering or even better, LEARNING to take breaks. Understa
 I closed the laptop yesterday at 12am. Crazy...Need to learn to take breaks.  
 Something I will learn to improve along the way, in code and conquering the mountain! 
 
+### Day 4: April 17, 2020
+#100daysofcode [Day 004/100]: 
+
+Today I decided to mix it up rather than do my usual coding. 
+
+I attended a Webinar held by @GA and was doing a live code-along, along with other students so it felt more inclusive.
+
+**Thoughts***
+
+Coding is starting to feel natural to me now, grasping the concept of HTML and CSS, consequently leading to me having 
+a glimpse of JS today. I personally feel that I should be doing more projects than following the exercises from the courses I'm doing. 
+Perhaps that will be the challenge for next week. 
+
+In terms of soft skills, I would like to be more productive and efficient in my work. Rather than spending long hours coding. Regardless, I am having fun! So it's not all that bad. :) 
+
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
