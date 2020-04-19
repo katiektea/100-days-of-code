@@ -50,6 +50,16 @@ Perhaps that will be the challenge for next week.
 
 In terms of soft skills, I would like to be more productive and efficient in my work. Rather than spending long hours coding. Regardless, I am having fun! So it's not all that bad. :) 
 
+### Day 5: April 19, 2020
+Learned how to use Class CSS to style multiple HTML elements. 
+Because it was the weekend, I decided to play some games in code. 
+So I jumped into playing this game: https://www.bt.com/codeacake/ 
+
+**Thoughts** 
+
+I find it hard to keep up with coding on the weekends. Things somewhat slow down? So I end up not doing much code or studying. 
+I'm sure that's okay right? :D sometimes we all need a little break :') 
+
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
