@@ -60,6 +60,14 @@ So I jumped into playing this game: https://www.bt.com/codeacake/
 I find it hard to keep up with coding on the weekends. Things somewhat slow down? So I end up not doing much code or studying. 
 I'm sure that's okay right? :D sometimes we all need a little break :') 
 
+### Day 6: April 20, 2020 
+
+Did everything CSS today; from specificity levels to important selectors, to fumbling around with borders and colours. 
+Also had some fun with manipulating and interacting with different websites' elements using the Chrome Inspector. How cool is that! 
+
+**Thoughts** 
+Not much coding done as it is the weekend, so I decided to take a break. I feel like it is good to take a break from my streaks every now and then, so I did miss a day on Sunday. 
+However! As per the FAQ on the #100daysofcode challenge, it is okay to miss a day, but as long as you continue the day after, it's fine. 
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
