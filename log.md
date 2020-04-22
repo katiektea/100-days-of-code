@@ -69,6 +69,22 @@ Also had some fun with manipulating and interacting with different websites' ele
 Not much coding done as it is the weekend, so I decided to take a break. I feel like it is good to take a break from my streaks every now and then, so I did miss a day on Sunday. 
 However! As per the FAQ on the #100daysofcode challenge, it is okay to miss a day, but as long as you continue the day after, it's fine. 
 
+### Day 7: April 21, 2020 
+Worked with Bootstrap elements (nav bars, forms and inputs etc) today.
+ 
+Was getting jaded from 'tutorial hell' so I began working on a number of projects to practice and refine coding practices. I also began JS today, time to walk the backend journey! 
+After discovering bootstrap, it feels like a box of lego pieces have been given to me, and all I have to do is define what I want to create and start putting all the pieces together! 
+
+Also, built a Netflix landing page clone using  HTML, CSS and JS 
+
+**Thoughts** 
+I feel like I am quite slow in progress...perhaps I am still new to the whole developer space and trying to find my feet in navigating the programming world. 
+I'm always expecting myself to be at the peak of the mountain when I am still walking the climb to the first tea house. 
+Im slowly getting better at time management, but it's a progress. I feel that I do get carried away often, having sudden bursts of overambition. 
+
+I plan to create a routine and utilise work techniques so that I can be productive and not just 'busy' all the time. 
+
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
