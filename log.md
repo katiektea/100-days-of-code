@@ -84,6 +84,13 @@ Im slowly getting better at time management, but it's a progress. I feel that I 
 
 I plan to create a routine and utilise work techniques so that I can be productive and not just 'busy' all the time. 
 
+### Day 8: April 22, 2020 
+Today was all about writing and experimenting with JS - primitives, conditionals, variables and experimented with the chrome JS developer console. 
+I also built a music app :D (added source music, colours and everything!) It's not perfect, but I'm learning.  
+
+**Thoughts** 
+Working with JS reminded me of working with C language in CS50. 
+I think this is where I need to understand the computer logic, computer science and syntax of programming before working with JS - because I am still struggling to understand it. I'm thinking if I did a review of the fundamentals, perhaps I'll get the hang of it soon. 
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
