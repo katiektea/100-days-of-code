@@ -92,6 +92,15 @@ I also built a music app :D (added source music, colours and everything!) It's n
 Working with JS reminded me of working with C language in CS50. 
 I think this is where I need to understand the computer logic, computer science and syntax of programming before working with JS - because I am still struggling to understand it. I'm thinking if I did a review of the fundamentals, perhaps I'll get the hang of it soon. 
 
+### Day 9: April 23, 2020 
+
+Today was another day of working with JS, debugging my code, trying to make things work and did some JS exercises on: 
+http://asmarterwaytolearn.com/js/1.html (<- this was amazing) 
+
+**Thoughts** 
+
+Compared to the HTML and CSS counterpart, learning Javascript was the steepest and longest climb so far. Personally, JS logic somewhat reminds me of programming in C when I was learning #CS50. However, I realised that in order to code in JS, I needed to understand the underlying fundamentals. So I dived deeper into ways I could learn JS more productively rather than do code-along tutorials. I think I'm getting the hang of it!
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
