@@ -126,6 +126,11 @@ I'm also beiginning to take a break from posting on my social media too often. I
 I am thinking of posting every two days and collating my days together. 
 Although the rule of posting what you learn online to keep oneself accountable is a great idea, at the end of the day, only I can keep myself accountable. Learning programming has taught me a multitude of lessons, but one of the greatest takeaways from this experience is that only YOU are responsible for your actions, choices and how your day goes. Consequently, this resonates throughout one's life. 
 
+### Day 12: April 26, 2020 
+
+Not much coding, as I continued with the Web Dev Bootcamp on UDEMY, learning more about different loops in JS, objects and arrays.
+Did some light reading on The Smarter Way to Learn JS. 
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
