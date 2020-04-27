@@ -101,6 +101,31 @@ http://asmarterwaytolearn.com/js/1.html (<- this was amazing)
 
 Compared to the HTML and CSS counterpart, learning Javascript was the steepest and longest climb so far. Personally, JS logic somewhat reminds me of programming in C when I was learning #CS50. However, I realised that in order to code in JS, I needed to understand the underlying fundamentals. So I dived deeper into ways I could learn JS more productively rather than do code-along tutorials. I think I'm getting the hang of it!
 
+### Day 10: April 24, 2020
+
+Last two days consisted of working with JS fundamentals, wrote and evaluated while loop exercises, created some simple games using conditionals and variables. 
+Progressing with the fundamentals of JS.
+
+**Thoughts** 
+
+I used to struggle with understanding the logic behind while loops when learning C in #CS50. But that all changed when I started reading "Learning Javascript the Smarter Way". 
+Compared to the HTML and CSS counterpart, learning Javascript was the steepest and longest climb so far. Personally, JS logic somewhat reminds me of programming in C when I was learning #CS50.
+
+Now with my new learned skills and knowledge, I can't wait to see what projects I'll tackle next week! Can't say it was the smoothest sailing learning JS, but I can say I am embracing it, and taking the opportunity to run with it, because that is all part of learning :)
+
+### Day 11: April 25, 2020 
+
+Today was ANZAC day and it as it is the weekend, my schedule for learning code is slightly different compared to what I do on the weekday. 
+
+Today was about revising JS concepts and learning about best practices in coding. 
+
+**Thoughts** 
+
+Sometimes it is good to take a break from the norm and revise earlier learnings as it can be good to solidify knowledge and reframe understanding concepts.
+I'm also beiginning to take a break from posting on my social media too often. I feel like it takes away from productive learning. 
+I am thinking of posting every two days and collating my days together. 
+Although the rule of posting what you learn online to keep oneself accountable is a great idea, at the end of the day, only I can keep myself accountable. Learning programming has taught me a multitude of lessons, but one of the greatest takeaways from this experience is that only YOU are responsible for your actions, choices and how your day goes. Consequently, this resonates throughout one's life. 
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
