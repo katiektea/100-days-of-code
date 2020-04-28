@@ -131,6 +131,31 @@ Although the rule of posting what you learn online to keep oneself accountable i
 Not much coding, as I continued with the Web Dev Bootcamp on UDEMY, learning more about different loops in JS, objects and arrays.
 Did some light reading on The Smarter Way to Learn JS. 
 
+### Day 13: April 27, 2020 
+
+1. Did a quick JS exercise, worked with for loops and different types of functions. 
+2. Today's coding was different from my usual daily studies. I used my coding skills to re-design the layout of a client's product store website, using, SIMPLY CODE. I remember back in the day I would use the 'drag-and-drop'-method of a platform's elements (e.g. wordpress, wix etc) to design a beautiful webpage. But once you learn the power of programming & design, you can tweak and transform with the power of your imagination and fingertips. There comes a rewarding feeling when you successfully build something from scratch and is original.
+
+### Day 14: April 28, 2020 
+
+Worked on a project today: building my own linktree webpage.
+I had the option of signing up online, however, I thought I would give myself a bit of 
+a challenge and put my learned front-end programming to good use before 
+progressing on in JS and more. 
+
+**Thoughts**
+
+Quite satisfying to work on owned projects. It is rewarding and I encounter a number of 
+lessons. I learned an important aspect of front-end web development today: 
+polishing the user interface and user experience of the webpage. I understand this will come through work application, experience and 
+meeting client briefs, but it is also good to learn now. 
+Learned about ensuring web page has responsive design to multiple platforms such as iphones, ipads, and desktop. 
+Things I can work on: 
+-planning out/drawing out what it is/what the webpage will look like
+-learning more about CSS styling - had to google quite a number of times what CSS names equated to what 
+design I wanted. 
+-learn to take regular breaks... I tend to get carried away and forget what time it is.
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
