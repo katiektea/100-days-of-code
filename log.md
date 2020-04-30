@@ -156,6 +156,17 @@ Things I can work on:
 design I wanted. 
 -learn to take regular breaks... I tend to get carried away and forget what time it is.
 
+### Day 15: April 29, 2020 
+
+Continued through the Bootcamp course, evaluating functions, writing arguments (return),  function declarion vs function expression, and finally, scope (notoriously difficult of them all...) 
+
+**Thoughts** 
+Today's session took a cerebral toll on me. I have a difficult time understanding the logic behind it all, but I believe with practice, I will get there. 
+I am also learning to chunk my tasks together and manage my time properly. It's not perfect, but it is improving :') 
+
+
+
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
