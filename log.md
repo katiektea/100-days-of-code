@@ -164,8 +164,15 @@ Continued through the Bootcamp course, evaluating functions, writing arguments (
 Today's session took a cerebral toll on me. I have a difficult time understanding the logic behind it all, but I believe with practice, I will get there. 
 I am also learning to chunk my tasks together and manage my time properly. It's not perfect, but it is improving :') 
 
+### Day 16: April 30, 2020 
 
+Worked with higher order functions in JS and mainly did some revision and exercises. 
 
+**Thoughts**
+Are there such thing as an off day? Because yesterday was one of those days. 
+
+Compared to how comfortable I am with HTML or CSS, JS is definitely more difficult for me to grasp.
+Nevertheless I think it's all about coming out of my comfort zone and embracing it. Taking a step and the opportunity, and running with it.
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
