@@ -185,6 +185,12 @@ to do list etc
 Slowly starting to feel stuck on Javascript. Realising I am being overambitious with my coding goals and time. I have so many projects I want to do but not properly managing my time. 
 This is a work in progress....
 
+### Day 18: May 6, 2020 ### 
+Today I continued with Arrays on the Udemy Web Dev Bootcamp. I also continued working on my linktree project and started another project - building a to do list. 
+
+**Thoughts** 
+I'm wondering why I take a while to code. Or get a project out. I can understand why in the workplace they implement methodologies such as agile and scrum. I suppose it is still in the early stages of my learnings, so I can't expect myself to have mastered project management methodologies. Learning to take it one step at a time. 
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
