@@ -164,7 +164,7 @@ Continued through the Bootcamp course, evaluating functions, writing arguments (
 Today's session took a cerebral toll on me. I have a difficult time understanding the logic behind it all, but I believe with practice, I will get there. 
 I am also learning to chunk my tasks together and manage my time properly. It's not perfect, but it is improving :') 
 
-### Day 16: April 30, 2020 
+### Day 16: April 30, 2020 ###
 
 Worked with higher order functions in JS and mainly did some revision and exercises. 
 
@@ -173,6 +173,17 @@ Are there such thing as an off day? Because yesterday was one of those days.
 
 Compared to how comfortable I am with HTML or CSS, JS is definitely more difficult for me to grasp.
 Nevertheless I think it's all about coming out of my comfort zone and embracing it. Taking a step and the opportunity, and running with it.
+
+### Day 17: May 5, 2020 ###
+Had my previous days tied and jam packed, so tried to do revision in the meantime. Did not get any coding as I wanted to dedicate quality time to learning, rather than rush it and do a futile post.
+
+Continued through the Web Dev Bootcamp. Really wanting to finish the bootcamp.
+Developed a go to workflow for my code and working on projects: such as the linktree app,
+to do list etc 
+
+**Thoughts**
+Slowly starting to feel stuck on Javascript. Realising I am being overambitious with my coding goals and time. I have so many projects I want to do but not properly managing my time. 
+This is a work in progress....
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
