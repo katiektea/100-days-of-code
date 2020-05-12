@@ -191,6 +191,26 @@ Today I continued with Arrays on the Udemy Web Dev Bootcamp. I also continued wo
 **Thoughts** 
 I'm wondering why I take a while to code. Or get a project out. I can understand why in the workplace they implement methodologies such as agile and scrum. I suppose it is still in the early stages of my learnings, so I can't expect myself to have mastered project management methodologies. Learning to take it one step at a time. 
 
+### Day 19: May 7, 2020 ###
+
+Last couple of days have been about building projects. 
+I've given 'learning'coding a break for a while and just to start coding. 
+There's such a fine difference there. Although following tutorials can be a start,
+I learn best by doing and experimenting. As it sticks with me more.
+
+### Day 20: May 8, 2020 ### 
+Today I was working with arrays and objects to access data. Found it really awesome that one is able to use them in conjunction with another and being able to access layers and layers of data. I learned about DOM today, the Document Object Model - essentially an organization chart automatically created by the browser for the entire web page. The most fundamental way to understand DOM is by designating parent and child nodes to the org chart. It was like understanding the heiarchial structure in a company, in biology and the organisation of nature (yes the scientist in me came out to play today :D) 
+Continued on with coding my project. 
+
+### Day 21: May 19, 2020 ### 
+I've been quite all over the place with coding lately. I don't really code on my days off, but rather, I revise concepts and my learnings. I feel that's important to master one concept and move on. Otherwise knowledge would be 
+fragmented.
+
+Today I continued with building JS projects and doing more of my course on UDEMY. 
+I started to work with Python and so that was something new. 
+
+
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
