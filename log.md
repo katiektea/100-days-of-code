@@ -210,7 +210,7 @@ Today I continued with building JS projects and doing more of my course on UDEMY
 I started to work with Python and so that was something new. 
 
 ### Day 22: May 20, 20202 ### 
-"Continued my Bootcamp course, jumped into JS methods, objects, DOM. 
+Continued my Bootcamp course, jumped into JS methods, objects, DOM. 
 
 Most of the day was working with working on my JS to do list and
 debugging my code! 
