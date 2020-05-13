@@ -209,6 +209,19 @@ fragmented.
 Today I continued with building JS projects and doing more of my course on UDEMY. 
 I started to work with Python and so that was something new. 
 
+### Day 22: May 20, 20202 ### 
+"Continued my Bootcamp course, jumped into JS methods, objects, DOM. 
+
+Most of the day was working with working on my JS to do list and
+debugging my code! 
+
+**Thoughts**
+I realise I take a long time to do this project, or maybe it is still 
+my first projects so I'm still getting the hang of it. 
+Js is still very difficult for me...or maybe it is the way I am studying it.
+Maybe I should go over the concepts again. I'll get there! 
+
+
 
 
 **Generic Example of Log below - Reference Only:**
