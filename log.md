@@ -202,26 +202,27 @@ I learn best by doing and experimenting. As it sticks with me more.
 Today I was working with arrays and objects to access data. Found it really awesome that one is able to use them in conjunction with another and being able to access layers and layers of data. I learned about DOM today, the Document Object Model - essentially an organization chart automatically created by the browser for the entire web page. The most fundamental way to understand DOM is by designating parent and child nodes to the org chart. It was like understanding the heiarchial structure in a company, in biology and the organisation of nature (yes the scientist in me came out to play today :D) 
 Continued on with coding my project. 
 
-### Day 21: May 19, 2020 ### 
+### Day 21: May 9, 2020 ### 
 I've been quite all over the place with coding lately. I don't really code on my days off, but rather, I revise concepts and my learnings. I feel that's important to master one concept and move on. Otherwise knowledge would be 
 fragmented.
 
 Today I continued with building JS projects and doing more of my course on UDEMY. 
 I started to work with Python and so that was something new. 
 
-### Day 22: May 20, 20202 ### 
-Continued my Bootcamp course, jumped into JS methods, objects, DOM. 
-
+Continued my Bootcamp course and manipulated the DOM using JS methods. 
 Most of the day was working with working on my JS to do list and
 debugging my code! 
 
-**Thoughts**
+ **Thoughts** 
 I realise I take a long time to do this project, or maybe it is still 
 my first projects so I'm still getting the hang of it. 
 Js is still very difficult for me...or maybe it is the way I am studying it.
-Maybe I should go over the concepts again. I'll get there! 
+Maybe I should go over the concepts again. I'll get there!
 
+### Day 22: May 14, 2020 ### 
+Continued DOM manipulation - why we use it, what makes it so special 
 
+Completed my To-Do List App 
 
 
 **Generic Example of Log below - Reference Only:**
