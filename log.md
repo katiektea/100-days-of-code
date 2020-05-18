@@ -219,10 +219,26 @@ my first projects so I'm still getting the hang of it.
 Js is still very difficult for me...or maybe it is the way I am studying it.
 Maybe I should go over the concepts again. I'll get there!
 
-### Day 22: May 14, 2020 ### 
-Continued DOM manipulation - why we use it, what makes it so special 
 
-Completed my To-Do List App 
+### Day 22: May 14, 2020 ### 
+I worked with JS methods for DOM manipulation, enabling developers to manipulate, create & style dynamic web pages, which was quite interesting. There are 5 important DOM Selectors that allow us to manipulate and work with DOM. 
+
+►document.getElementById()
+►document.getElementsByClassName()
+►document.getElementsByTagName()
+►document.querySelector()
+►document.querySelectorAll()
+
+We can also manipulate an element's style through the style property and more. Essentially, the crux of it all is to first SELECT element and then MANIPULATE.
+
+Next I will be moving onto Advanced DOM Manipulation in my course
+I also completed my To-Do List App 
+
+**Thoughts** 
+
+Building the first To-Do List app was by far the most challenging. I am beginning to envision how a product or project comes together. That is, planning, analysing variables, goal settings and then execute. This is no industry related experience talk here, I am deducing as I go. I hope to get some industry related experience soon. 
+
+Staying positive! 
 
 
 **Generic Example of Log below - Reference Only:**
