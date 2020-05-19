@@ -240,6 +240,17 @@ Building the first To-Do List app was by far the most challenging. I am beginnin
 
 Staying positive! 
 
+### Day 23: May 18, 2020 ### 
+
+Today I decided to play catchup with my previous projects, brushing up and doing some fine tuning. Was revising some previous concepts in JS and overall doing research for my short term goals. 
+
+**Thoughts**
+I haven't been coding on the weekend as lately, as last few days I was caught up with some events, however, I am keen to get back on it! I try to not be too hard on myself if I don't get any "coding" done on the weekend. I treat this challenge like the average business hours; 8-6 or 9-5 depending, and on weekends are my recharge and off days. 
+
+Essentially this challenge aims to foster good habits such as coding daily, best practices and building a habit to continually learn.
+
+I love learning overall, so I think it's all okay :) 
+
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
