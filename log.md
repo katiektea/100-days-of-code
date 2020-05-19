@@ -251,6 +251,20 @@ Essentially this challenge aims to foster good habits such as coding daily, best
 
 I love learning overall, so I think it's all okay :) 
 
+### Day 24: May 19, 2020 ### 
+
+Today was quite good, I started my day off with a fresh mind and got straight into progressing in my course. 
+I was working with Advanced DOM Manipulation today. This included: introduction to events, toggle, changing colors and styles on a webpage, and begin building some games to solidify learned knowledge. 
+
+Next I will be moving on to jQuery. 
+
+**Thoughts** 
+
+It's starting to become so fun! I am also starting to comprehend in my mind the code that is used to build and operate the websites that we regularly visit, games we play and apps we use. Once you understand the language that you're favourite website, app or game was built on, it is purely magical! 
+
+I also can't wait to progress more onto jQuery! Been patiently climbing steep mountains to reach the tea house with delicious food, honey & lemon drinks and picking up more gems of wisdom! 
+
+
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
