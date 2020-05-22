@@ -267,13 +267,31 @@ I also can't wait to progress more onto jQuery! Been patiently climbing steep mo
 
 ### Day 25: May 20, 2020 ### 
 
-Working with jQuery, why use it, what is the difference, when to use it and began coding with it. Using jQuery selectors to manipulate the webpage. Overall, just like DOM manipulation and Vanilla JS, the concept of SELECT and MANIPULATE is prevalent. 
+Working with jQuery, why use it, the difference between jQuery vs JS, when to use it and began coding with it. I began using jQuery selectors to manipulate the webpage. Overall, just like DOM manipulation and Vanilla JS, the concept of SELECT and MANIPULATE is prevalent. 
 
 **Thoughts** 
 
 It was important to be mindful of how you would write the code and manipulate DOM without using jQuery and understand the capabilities, pros and cons of each tool. 
 
+### Day 26: May 21, 2020 ### 
 
+Another day of working with jQuery, being able to demonstrate the new style and the console feeding back the changes made with DOM manipulation. I also moved on to Advanced jQuery methods:
+Understood the concept of other common jQuery methods: 
+val()
+text()
+attr()
+html()
+
+jQuery analogues:
+addClass()
+removeClass()
+toggleClass() 
+
+->It was imperative to note that these methods can be found on api.jqeruy.com, listing all methods and what they do (aviding memorisation)
+
+
+**Thoughts** 
+I think I am beginning to extract the pattern that is forming when working with jQuery. Now it's all about application. 
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
