@@ -293,6 +293,18 @@ toggleClass()
 **Thoughts** 
 I think I am beginning to extract the pattern that is forming when working with jQuery. Now it's all about application. 
 
+### Day 27: May 22, 2020 ### 
+Not much coding today as I continued to learn jQuery. 
+Went through the more advanced jQuery methods: 
+
+1. click() - adding a click listener to elements 
+2. keypress() - triggered when a user types on the keyboard; triggers an event on the element
+3. on() - works similar to addEventListener; allows you to specify the TYPE of event to list for. E.g. a double click, a single click, dragstart etc 
+
+
+**Thoughts** 
+Really want to advance further than I hoped so. Next week will be going into NodeJS and backend!! FINALLY! 
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
