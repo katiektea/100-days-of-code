@@ -294,7 +294,7 @@ toggleClass()
 I think I am beginning to extract the pattern that is forming when working with jQuery. Now it's all about application. 
 
 ### Day 27: May 22, 2020 ### 
-Not much coding today as I continued to learn jQuery. 
+Not much coding today as I continued to learn jQuery and jQuery events. 
 Went through the more advanced jQuery methods: 
 
 1. click() - adding a click listener to elements 
@@ -304,6 +304,53 @@ Went through the more advanced jQuery methods:
 
 **Thoughts** 
 Really want to advance further than I hoped so. Next week will be going into NodeJS and backend!! FINALLY! 
+
+### Day 28: Tuesday May 26, 2020 ### 
+
+Summary: 
+Today went through some backend workflow - request and returning
+Worked with text editor and terminal (somewhere to start the server and have it listening), a browser to make requests 
+
+
+*get request (retrieve info): through the browser
+*post request (add info): through a form, take a name that is sent in the request, and when submitted, there is an instantaneous request.
+
+Servers, routes, HTTP  
+
+Writing fullstack JS apps
+Using GoormIDE - a powerful cloud based IDE (integrated development environment) 
+IDE - your complete developer environment to make an app, set up in the browser.
+Has your text editor, your server, debugging tools. Writing applications in the browser
+
+Introduction to Command Line, using CD and LS, learning how to create directories, delete directories, creating & deleting files using solely the Command Line. It was a skill in itself without using the mouse! 
+
+### Day 29: Wednesday May 27, 2020 ### 
+
+Did an introduction to NodeJS, built my first Node app. 
+Created and executing JS and ruby files using Node.
+Started a new JS project. 
+
+**Thoughts** 
+I feel like my time management is going in curves, highs and lows. It definitely isn't linear. 
+I really want to try and keep at it. Work better and do better. 
+
+### Day 30: Thursday May 28, 2020 ### 
+
+Introduction to NPM concept today - a node package manager. It is the Node version of libraries & applications published on npm. Essentially code which someone wrot, and are added online everyday. Such applications can be found via npmjs.org 
+
+NPM has a command line tool, where we can install things easily. It can be installed with a single command-line. 
+
+When people create web apps, they usually install and work with NPM packages rather than writing plain JS
+
+Examples of packages which I worked with: Express and Mongoose 
+
+
+
+
+
+------------------------------------------------------------------
+
+
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
