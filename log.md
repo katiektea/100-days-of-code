@@ -315,9 +315,10 @@ Worked with text editor and terminal (somewhere to start the server and have it 
 *get request (retrieve info): through the browser
 *post request (add info): through a form, take a name that is sent in the request, and when submitted, there is an instantaneous request.
 
-Servers, routes, HTTP  
+Walked through: servers, routes & HTTP  
 
 Writing fullstack JS apps
+
 Using GoormIDE - a powerful cloud based IDE (integrated development environment) 
 IDE - your complete developer environment to make an app, set up in the browser.
 Has your text editor, your server, debugging tools. Writing applications in the browser
