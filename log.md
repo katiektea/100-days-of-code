@@ -345,6 +345,11 @@ When people create web apps, they usually install and work with NPM packages rat
 
 Examples of packages which I worked with: Express and Mongoose 
 
+### Day 31: Friday June 06, 2020 ### 
+
+This week was a bit rocky. Although that is no excuse to stop coding. I think sometimes there can be a bypass between coding and learning. I've been busy wiht learning a lot of theoretical concepts this week. I am under a traineeship with Upskilled in Programming at the moment. So I have been doing some progrmming assignments with them. 
+Doing my best to squeeze in some JS projects and JS revision. 
+
 
 
 
