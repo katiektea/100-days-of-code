@@ -350,6 +350,18 @@ Examples of packages which I worked with: Express and Mongoose
 This week was a bit rocky. Although that is no excuse to stop coding. I think sometimes there can be a bypass between coding and learning. I've been busy wiht learning a lot of theoretical concepts this week. I am under a traineeship with Upskilled in Programming at the moment. So I have been doing some progrmming assignments with them. 
 Doing my best to squeeze in some JS projects and JS revision. 
 
+### Day 32: Friday June 12, 2020 ### 
+
+I have been doing some assignments from my training course with Upskilled so coding has taken the back seat this week. However, as a developer, I believe it's good to cultivate that coding habit daily. So today I decided to reset and code again. 
+I learned about APIs and learning to write a code to make API requests with Node. 
+
+**Thoughts** 
+
+I learned to break down big tasks into small bite sized chunks in a systematic and sequential order. So I was quite pleased with myself. 
+This week I have been juggling quite a number of tasks. But this is where time management is key. 
+I also learned about software development methodologies. 
+
+Such methods can be a good way to keep track of my projects in my life too. 
 
 
 
