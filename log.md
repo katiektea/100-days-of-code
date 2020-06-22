@@ -363,6 +363,22 @@ I also learned about software development methodologies.
 
 Such methods can be a good way to keep track of my projects in my life too. 
 
+### Day 33: Tuesday 16 June, 2020 ### 
+
+Finished creating a JS app and summarised working with Express JS 
+
+### Day 34: Thursday June 18, 2020 ###
+
+Did an express routing assignment. 
+
+### Day 35: Friday June 18, 2020 ### 
+
+Continued working on route paramaters, understanding best practices and implementing code.
+
+**Thoughts** 
+Juggling 100 Days of Code with a full time training course is quite full on. However, I realise I am probably juggling multiple things at once and better to learn the art of balance and prioritising my time again. 
+
+
 
 
 
