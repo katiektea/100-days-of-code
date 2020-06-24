@@ -350,6 +350,19 @@ Examples of packages which I worked with: Express and Mongoose
 This week was a bit rocky. Although that is no excuse to stop coding. I think sometimes there can be a bypass between coding and learning. I've been busy wiht learning a lot of theoretical concepts this week. I am under a traineeship with Upskilled in Programming at the moment. So I have been doing some progrmming assignments with them. 
 Doing my best to squeeze in some JS projects and JS revision. 
 
+Learned about package JSON: 
+Package.json is the recipe needed for a specific package or library. Go in and install 
+Metadata about an application or a package e.g name, version
+
+--save = flag to install packages 
+
+Route Parameters: 
+Routing or router in web development is a mechanism where HTTP requests are routed to the code that handles them. To put simply, in the Router you determine what should happen when a user visits a certain page. 
+
+Route orders:
+the importance of route orders - So we determine the router and it will determine what happens when user visits the page
+
+
 ### Day 32: Friday June 12, 2020 ### 
 
 I have been doing some assignments from my training course with Upskilled so coding has taken the back seat this week. However, as a developer, I believe it's good to cultivate that coding habit daily. So today I decided to reset and code again. 
@@ -369,7 +382,7 @@ Finished creating a JS app and summarised working with Express JS
 
 ### Day 34: Thursday June 18, 2020 ###
 
-Did an express routing assignment. 
+Did an express routing assignment and revised some previous concepts
 
 ### Day 35: Friday June 18, 2020 ### 
 
