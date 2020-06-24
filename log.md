@@ -391,8 +391,12 @@ Continued working on route paramaters, understanding best practices and implemen
 **Thoughts** 
 Juggling 100 Days of Code with a full time training course is quite full on. However, I realise I am probably juggling multiple things at once and better to learn the art of balance and prioritising my time again. 
 
+### Day 36: Wednesday June 24, 2020 ### 
 
+It is clear by now that I do not code on the weekend. As I feel it is good to take a break from my everyday work once in a while. 
 
+Today I worked with EJS and the NPM. 
+It took me a while to understand EJS, adding routes and rendering to a specific file. It's important to understand this type of logic really well, where we are able to fill a template in with data coming back from a database or data a user has provided and it’s not a static file that is the same every time. 
 
 
 ------------------------------------------------------------------
