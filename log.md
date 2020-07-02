@@ -399,6 +399,28 @@ Today I worked with EJS and the NPM.
 It took me a while to understand EJS, adding routes and rendering to a specific file. It's important to understand this type of logic really well, where we are able to fill a template in with data coming back from a database or data a user has provided and it’s not a static file that is the same every time. 
 
 
+### Day 37: Thursday June 25, 2020 ### 
+
+I'm starting to forget to log on github as I have my own log on excel. 
+However, that is no excuse. 
+
+I continue on with the UDEMY course and learned more about post routes, important EJS tags and really grasphing the logic in working with EJS and node. 
+
+### Day 38: Wednesday 1st July, 2020 ### 
+
+I was revising previous concepts. 
+I decided to revise some JS and do more JS projects. Kind of getting exhausted doing tutorials. 
+
+I also learned about UML and modelling today as part of my course. 
+I had a glimpse at web design basics and understanding the terms and principles. 
+
+**Thoughts** 
+
+I REALLY, have to start coding daily again. 
+I've been quite caught up in a a number of other things, such as working for some partners, writing, content creation and perhaps spending too much time on my assessments on my traininng program. 
+
+Time to reset! I can do this! 
+
 ------------------------------------------------------------------
 
 
