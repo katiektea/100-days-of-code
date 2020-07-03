@@ -421,6 +421,17 @@ I've been quite caught up in a a number of other things, such as working for som
 
 Time to reset! I can do this! 
 
+### Day 39: Thursday 2nd July, 2020 ###
+
+Today I decided to revisit some Javascript functions and decided to complete the Responsive Web Design course on freeCodecamp. 
+I successfully understood the algorithms for compound assignments for Augmented Addition, Subtraction, Multiplication and Division. 
+
+I'm curious to see how this would play out in a real project. 
+
+I also continued my UPSKILLED course, and learned about the UML model types and Use Case diagrams: activity, class and relationships. 
+I feel it is important to familiarise myself with such information as it would be useful for me to get to know how it would be implemented in real life. 
+
+
 ------------------------------------------------------------------
 
 
