@@ -431,6 +431,34 @@ I'm curious to see how this would play out in a real project.
 I also continued my UPSKILLED course, and learned about the UML model types and Use Case diagrams: activity, class and relationships. 
 I feel it is important to familiarise myself with such information as it would be useful for me to get to know how it would be implemented in real life. 
 
+### Day 40: Wednesday 8th July, 2020 ### 
+
+I have gone through a number of coding topics today. Listed below are the bullet points: 
+
+*understanding the concept of arrays and knowing how to pull and call the data forward in ejs 
+
+*making routes follow convention called REST. 
+
+*styling with partials (embedded files in another)
+
+*app.post// get data from form and add campgrounds to array
+
+*body parser install: npm install body--parser --save
+
+*telling express to use bodyParser
+
+*Create header and footer partials in separate mkdir and quick styling using boostrap
+
+*Creating images and making the web app RESPONSIVE is an important factor in web dev. i.e. styling the images in grids etc 
+
+*Conceptualising a web app - from body content, to responsive design, to the navigation bar + responsive, adding navbar to each page etc. Every little detail counts
+
+----
+Revisting front end frameworks and in depth design principles. 
+CSS design principles: consistency, succinctness and separation. 
+
+I decide to learn about some design tools today, Figma. 
+How cool! 
 
 ------------------------------------------------------------------
 
