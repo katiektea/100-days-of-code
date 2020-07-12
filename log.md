@@ -460,6 +460,24 @@ CSS design principles: consistency, succinctness and separation.
 I decide to learn about some design tools today, Figma. 
 How cool! 
 
+### Day 41: Friday 10th July, 2020 ### 
+
+Redid the Yelp camp project because I didn't understand. 
+Practice some JS concepts. 
+Learned about different prototyping tools in system design and Business Analysis Foundations. 
+
+**Thoughts** 
+I feel like it is a rush to get something out these days. Especially with coding. I'm learning to balance my time more properly, but it could be better. 
+I'm trying to quickly push through tutorials and really just code. But I think I'm slowly losing the hang of it if I don't commit to it daily. Or doing CONSECUTIVE days of coding.
+
+
+### Day 42: Sunday 12th July, 2020 ### 
+
+It's a Sunday but I really wanted to sit down and do some revision, continue with coding to create Responsive Design.
+
+Started a new project today. 
+
+
 ------------------------------------------------------------------
 
 
