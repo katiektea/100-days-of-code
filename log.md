@@ -475,8 +475,19 @@ I'm trying to quickly push through tutorials and really just code. But I think I
 
 It's a Sunday but I really wanted to sit down and do some revision, continue with coding to create Responsive Design.
 
-Started a new project today. 
+Started a new JS project today. 
+JS concepts that were used in the project involved: 
 
+DOM Manipulation
+Control Structures
+Array.forEach()
+JavaScript CSS Manipulation
+eventListeners
+Immediately Invoked Function Expressions
+
+**Thoughts** 
+I feel like I should be more specific with what I'm writing or logging down. 
+More specific detail of what I was coding. E.g. the JS project, what concepts were involved etc 
 
 ------------------------------------------------------------------
 
