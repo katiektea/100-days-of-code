@@ -489,6 +489,42 @@ Immediately Invoked Function Expressions
 I feel like I should be more specific with what I'm writing or logging down. 
 More specific detail of what I was coding. E.g. the JS project, what concepts were involved etc 
 
+### Day 43: Monday 13th July, 2020 ### 
+Continued with my course focusing on databases today. Database = collection of information and an interface; some sort of language of tech/tools to interact with this data
+
+Concepts learned: 
+*SQL and nonSQL. 
+*relational database - tabular and ordered. relating data is done through multiple tables and using IDs 
+
+*non-relational: no defined tables. more flexible structure. JS with key varlue pairs. Comments can be nested.
+in data 
+*SQL or nonSQL have been around the longest. 
+*focus is the difference between relational or non relational. broad difference. 
+
+---
+learning how to install mongoDB on GOORM 
+
+*start writing some MongoCode
+
+### Day 44: Tuesday 14th July, 2020 ### 
+Continued with course. Working with UML modelling and prototyping an app today 
+
+### Day 45: Wednesday 15th July, 2020 ### 
+"Working with Mongo Shell Basics and mongo code to update and access data from a database. 
+CRUD command (created, read, update and delete) insert, find, update and remove. 
+
+*remove - by default wil remove anything that you provide it. If you only want to remove 1, then insert ""limit (1)"" 
+*update - must use $set to not alter any information other than the one you are changing 
+
+Played around with my Wix website and was able to code using Corvid! Time to animate and add new apps onto my website.
+
+### Day 46: Thursday 16th July, 2020 ### 
+Using UML markup to code UML diagrams
+Continued working on my website. 
+Experimented with Corvid code as I was curious haha 
+
+
+
 ------------------------------------------------------------------
 
 
