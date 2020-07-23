@@ -523,6 +523,15 @@ Using UML markup to code UML diagrams
 Continued working on my website. 
 Experimented with Corvid code as I was curious haha 
 
+### Day 47: Wednesday 22nd July, 2020 ### 
+Continued on building my web app, Reponsive Web Design & Learning React
+
+React - An Analogy: 
+Chunking pieces of code together called librariesf or ease of use, speed and management. 
+
+### Day 48: Thursday 23rd July, 2020 ### 
+SQL, Responsive Web Design 
+
 
 
 ------------------------------------------------------------------
