@@ -532,6 +532,15 @@ Chunking pieces of code together called librariesf or ease of use, speed and man
 ### Day 48: Thursday 23rd July, 2020 ### 
 SQL, Responsive Web Design 
 
+### Day 49: Monday 27th July, 2020 ### 
+
+Introduction to C#, learning how to output and input with console and how to store date into variables.
+
+Working with conditions, creating applications to put knowledge into practice
+
+### Day 50: Tuesday 28th July, 2020 ###
+
+Continuing with C# , building website with login and a secure password, Responsive Web Design, OOP in C# 
 
 
 ------------------------------------------------------------------
