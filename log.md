@@ -547,6 +547,8 @@ Continuing with C# , building website with login and a secure password, Responsi
 
 I've been caught up with doing some wireframing, learning about  UX/UI design. But today I finally managed to work on my web app, styling the website and centring images and text on GOORM 
 
+Also worked with Shopify Development
+
 ------------------------------------------------------------------
 
 
