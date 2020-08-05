@@ -543,6 +543,10 @@ Working with conditions, creating applications to put knowledge into practice
 Continuing with C# , building website with login and a secure password, Responsive Web Design, OOP in C# 
 
 
+### Day 51: Wednesday 5th August, 2020 ### 
+
+I've been caught up with doing some wireframing, learning about  UX/UI design. But today I finally managed to work on my web app, styling the website and centring images and text on GOORM 
+
 ------------------------------------------------------------------
 
 
