@@ -549,6 +549,22 @@ I've been caught up with doing some wireframing, learning about  UX/UI design. B
 
 Also worked with Shopify Development
 
+### Day 53: Thursday 6th August, 2020 ### 
+
+Learned some new ways to style buttons and nav bar for my web app. 
+Continued experimenting with styling CSS in the IDE. 
+I also learned about software development standards yesterday. 
+
+I also continued with responsive web design module. Made a couple of mistakes so will try again today. 
+
+Tomorrow will be diving into databases again, and how to use it in my website.
+
+**Thoughts**
+
+I really want to start narrowing down what projects and activities I do. I feel that I am quite behind. But I don't want to think that way. 
+
+At the end of this challenge, I do want to build my own app or at least build something. I feel that tutorials don't really mean anything unless we produce something. 
+
 ------------------------------------------------------------------
 
 
