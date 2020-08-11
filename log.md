@@ -565,6 +565,14 @@ I really want to start narrowing down what projects and activities I do. I feel 
 
 At the end of this challenge, I do want to build my own app or at least build something. I feel that tutorials don't really mean anything unless we produce something. 
 
+### Day 54: Tuesday 11th August, 2020 ### 
+
+A lot of tasks are slowly building up so I would like to 
+work towards building a more productive approach.
+I think I figured out a way to insert a stylesheet into EJS. 
+It was quite a discovery journey for me. 
+
+
 ------------------------------------------------------------------
 
 
