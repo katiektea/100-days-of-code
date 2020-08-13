@@ -572,6 +572,25 @@ work towards building a more productive approach.
 I think I figured out a way to insert a stylesheet into EJS. 
 It was quite a discovery journey for me. 
 
+### Day 55: Wednesday 12th August, 2020 ### 
+
+Making a lot of progress with my courses. I think I'm done with
+Colt's Udemy course. I ended up styling my web page myself, and figuring out how to 
+fix my images and code. 
+Started with ReactJS Frontend Web Development for Beginners.
+I learned to work with my Windows Terminal today and calling
+the command line. 
+
+Installed Nodejs and global installation of React.
+There are several commands in react that I am working with. 
+
+**Thoughts** 
+
+I am feeling quite overwhelmed with the abundance of work I am tackling right now. However, this calls for nothing but time management, discovering efficient ways to complete tasks and prioritise. 
+
+While creating these projects, I am also learning a variety of soft skills such as introspection, different mindset when coding, changing my mindset when working towards particular tasks. 
+
+We will get tbere. 
 
 ------------------------------------------------------------------
 
