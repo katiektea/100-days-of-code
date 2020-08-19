@@ -592,6 +592,26 @@ While creating these projects, I am also learning a variety of soft skills such 
 
 We will get tbere. 
 
+### Day 56: Thursday 13th August, 2020 ### 
+
+Building on React 
+
+### Day 57: Friday 14th August, 2020 ### 
+
+Continued learning react and building my app. 
+
+**Thoughts** 
+I have been juggling quite a number of tasks lately. I would like to manage my time more efficiently. I've been using the app Notion to track my work. 
+
+Time to reset and start again! 
+
+### Day 58: Tuesday, 18th August, 2020 ### 
+
+Went through React Fundamental Components
+React DOM render ()
+Learning more about JSX and the best practices when writing React code
+Getting used to my organisational structure
+
 ------------------------------------------------------------------
 
 
