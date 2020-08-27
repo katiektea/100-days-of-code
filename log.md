@@ -612,6 +612,22 @@ React DOM render ()
 Learning more about JSX and the best practices when writing React code
 Getting used to my organisational structure
 
+### Day 59: Thursday, 27th August, 2020 ### 
+
+I have been occupied with other tasks that coding is taking a back seat at the moment. I really want to be more consistent. 
+I have been prioritising my Certificate course at the moment. 
+
+Today I did some revision on installing MongoDB and understanding basic commands. 
+I feel like most of this course is purely self-taught and constant problem solving on my end. 
+
+Installing MongoDB took longer than required. Sometimes the videos on Udemy are outdated and so it inhibits my progress because I end up having to google and consult 
+other resources in order for me to progress. 
+Here is a simpler way to install MongoDb 
+
+https://help.goorm.io/en/goormide/18.faq/language-and-environment/how-to-install-mongodb
+
+I also revisited APIs and understanding how they work. 
+
 ------------------------------------------------------------------
 
 
