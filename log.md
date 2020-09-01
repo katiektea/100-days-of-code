@@ -628,8 +628,13 @@ https://help.goorm.io/en/goormide/18.faq/language-and-environment/how-to-install
 
 I also revisited APIs and understanding how they work. 
 
-------------------------------------------------------------------
+### Day 60: Monday, 31st August, 2020 ### 
 
+Continued wuth Nodejs, EJS and more. Completed off Colt Steele's Web Dev Bootcamp,
+however it is only the beginning. Colt's course is quite outdated, hence I decided to move on from that
+and pick out the parts that I need working on. I think it's important to learn how to solve problems and build projects, rather than sit and watch someone do it.
+ 
+------------------------------------------------------------------
 
 
 **Generic Example of Log below - Reference Only:**
