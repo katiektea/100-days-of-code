@@ -636,6 +636,10 @@ and pick out the parts that I need working on. I think it's important to learn h
  
 ------------------------------------------------------------------
 
+### Day 61: Tuesday, 1st September, 2020 ### 
+
+Revisted C# as part of my deliverable for my course. 
+
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
