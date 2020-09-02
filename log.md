@@ -640,6 +640,15 @@ and pick out the parts that I need working on. I think it's important to learn h
 
 Revisted C# as part of my deliverable for my course. 
 
+### Day 62: Wednesday, 2nd September, 2020 ### 
+Built many small apps today with C#. 
+Trying to understand C# logic and data types and structures. 
+
+**Thoughts** 
+Still trying to get used to this type of programming language. 
+I decided to drop multi-tasking and really focus and hone my energy on one language. 
+I am spreading myself too thin.
+So I'm bringing it back to C# - simply because it is part of my course. 
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
