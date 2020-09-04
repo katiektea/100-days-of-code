@@ -650,12 +650,25 @@ I decided to drop multi-tasking and really focus and hone my energy on one langu
 I am spreading myself too thin.
 So I'm bringing it back to C# - simply because it is part of my course. 
 
+### Day 63: Thursday, 3rd September, 2020 ### 
+Was revising some concepts in C#, being more familiary with data structures 
+Figuring out an algorithm so I can apply it to a program
+
+### Day 64: Friday, 4th September, 2020 ### 
+Coded in object oriented programming today with C. Learning the importance of classes and assigning attributes 
+Went through encapsulation 
+
+Started a budget tracker project for github 
+
+
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
