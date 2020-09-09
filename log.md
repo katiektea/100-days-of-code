@@ -660,6 +660,8 @@ Went through encapsulation
 
 Started a budget tracker project for github 
 
+### Day 65: Wednesday, 9th September, 2020 ### 
+Continued revising some JS concepts and started to style my budget tracker
 
 **Generic Example of Log below - Reference Only:**
 ### Day 1: June 27, Monday
