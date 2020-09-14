@@ -671,6 +671,13 @@ Continued revising some JS concepts and started to style my budget tracker
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 
+### Day 66: Monday, 14th September, 2020 ### 
+Learned coding concepts in C# such as: 
+-encapsulation 
+-properties 
+-static members
+-constructors 
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
