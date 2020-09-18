@@ -676,7 +676,11 @@ Learned coding concepts in C# such as:
 -encapsulation 
 -properties 
 -static members
--constructors 
+
+### Day 67: Friday 18th September, 2020 ### 
+
+Learned the principles of SOLID in software development 
+Working with constructors, namespaces and utilities to minimise lengthy code in C#. 
 
 
 **Link(s) to work**
