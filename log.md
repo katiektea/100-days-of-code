@@ -682,6 +682,12 @@ Learned coding concepts in C# such as:
 Learned the principles of SOLID in software development 
 Working with constructors, namespaces and utilities to minimise lengthy code in C#. 
 
+### Day 68: Monday, 21th September, 2020 ###
+
+Continued with C# 
+Learned constructors 
+
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
