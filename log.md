@@ -685,8 +685,17 @@ Working with constructors, namespaces and utilities to minimise lengthy code in 
 ### Day 68: Monday, 21th September, 2020 ###
 
 Continued with C# 
-Learned constructors 
 
+### Day 69: Tuesday, 22nd September, 2020 ###
+Switched my phone to developer mode as I begin doing some testing and coding for a mobile app! 
+
+
+### Day 70: Wednesday, 23rd September, 2020 ###
+
+Continuing with android development and C#. 
+Really getting back into the groove with picking up some JS projects again. 
+
+Challenging times!  
 
 
 **Link(s) to work**
