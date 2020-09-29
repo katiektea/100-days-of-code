@@ -697,6 +697,13 @@ Really getting back into the groove with picking up some JS projects again.
 
 Challenging times!  
 
+### Day 71 - 76: Tuesday, 29th September, 2020 ###
+Continuing learning C# 
+
+Built the wireframe for my Stock App 
+
+
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
