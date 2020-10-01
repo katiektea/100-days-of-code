@@ -677,31 +677,21 @@ Learned coding concepts in C# such as:
 -properties 
 -static members
 
-### Day 67: Friday 18th September, 2020 ### 
+### Day 67 - 71 : Saturday 19th September, 2020 ### 
 
 Learned the principles of SOLID in software development 
 Working with constructors, namespaces and utilities to minimise lengthy code in C#. 
 
-### Day 68: Monday, 21th September, 2020 ###
-
 Continued with C# 
+Switched my phone to developer mode as I begin doing some testing and coding for a mobile app!  
 
-### Day 69: Tuesday, 22nd September, 2020 ###
-Switched my phone to developer mode as I begin doing some testing and coding for a mobile app! 
-
-
-### Day 70: Wednesday, 23rd September, 2020 ###
-
+### Day 71 - 80: Thursday, 29th September, 2020 ###
 Continuing with android development and C#. 
 Really getting back into the groove with picking up some JS projects again. 
 
-Challenging times!  
+Challenging times! 
 
-### Day 71 - 76: Tuesday, 29th September, 2020 ###
-Continuing learning C# 
-
-Built the wireframe for my Stock App 
-
+Built the backend and front end wireframe for my Stock App 
 
 
 
