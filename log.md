@@ -693,6 +693,11 @@ Challenging times!
 
 Built the backend and front end wireframe for my Stock App 
 
+### Day 81 - 82: Wednesday, 7th October, 2020 ### 
+Built a form and continuting to style the web app today. 
+
+On top of everything else! 
+
 
 
 **Link(s) to work**
