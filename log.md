@@ -698,7 +698,10 @@ Built a form and continuting to style the web app today.
 
 On top of everything else! 
 
+## Day 83 - 84: Friday, 9th October, 2020 ### 
+Continued building my web application! 
 
+it's getting there
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
