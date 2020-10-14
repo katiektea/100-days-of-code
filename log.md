@@ -703,6 +703,12 @@ Continued building my web application!
 
 it's getting there
 
+### Day 84 - 86: Wednesday, 14th October, 2020 ##
+Getting my system application to run!! 
+
+Now it's all about debugging it...
+
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
