@@ -708,6 +708,13 @@ Getting my system application to run!!
 
 Now it's all about debugging it...
 
+### Day 87 - 100: Tuesday, 3rd November, 2020 ###
+
+I know I haven't been logging but I did it! about "100 days" later. Now writing the test documentation for my application. 
+
+It's been quite a busy week.. 
+
+Might do this challenge again actually. 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
